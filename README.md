@@ -1,5 +1,5 @@
 Used Packages: 
 
-Serilog.AspNetCore
-Serilog.Expressions
-Serilog.Sinks.MSSqlServer
+Serilog.AspNetCore,  
+Serilog.Expressions,  
+Serilog.Sinks.MSSqlServer   
